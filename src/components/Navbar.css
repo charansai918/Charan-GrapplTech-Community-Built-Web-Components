@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: burlywood ;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+}
+
+.logo1{
+    width: 60px;
+    margin: 1px;
+    border: solid white;
+    border-radius: 22px 2px 22px 12px;
+    padding: 0%;
+
+}
+.heading{
+    color: rgb(88, 147, 164);
+    
+  font-family: 'Courier New', Courier, monospace;
+}
