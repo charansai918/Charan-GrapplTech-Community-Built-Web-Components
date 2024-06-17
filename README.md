@@ -1,6 +1,6 @@
 # GrapplTech Community Built Web Components Repository
 
-## Description
+## Description of the Project
 Welcome to the GrapplTech Web Components Repository! This repository is dedicated to housing a variety of web component templates, including navbars, buttons, hero sections, footers, headers, sidebars, and more. These templates are contributed by students and reviewed by our team to ensure high quality. Our goal is to have a comprehensive library of web components ready for the feature launch on 15th August 2024.
 
 ## Website Link: https://www.grappl.tech/gtcommunitycomponents
